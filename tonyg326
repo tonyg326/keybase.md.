@@ -1,0 +1,66 @@
+### Keybase proof
+
+I hereby claim:
+
+  * I am tonyg326 on github.
+  * I am tonyg326 (https://keybase.io/tonyg326) on keybase.
+  * I have a public key ASAsTrV6GK6swPoWtelqs5yiGOOWN1kcOOtlb3w_OuNZtAo
+
+To claim this, I am signing this object:
+
+```json
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01202c4eb57a18aeacc0fa16b5e96ab39ca218e39637591c38eb656f7c3f3ae359b40a",
+      "host": "keybase.io",
+      "kid": "01202c4eb57a18aeacc0fa16b5e96ab39ca218e39637591c38eb656f7c3f3ae359b40a",
+      "uid": "894467d84020e4f1a49e65c3b8249719",
+      "username": "tonyg326"
+    },
+    "merkle_root": {
+      "ctime": 1568052791,
+      "hash": "e356420f5b303fa88abb11c316d4e6a73e6247d9fe657f9a45ed63d7fdc1ca55dd907cbfda470acf21b0d1d2dde22230201ebf3b8d7a48d16a583b702b9211dd",
+      "hash_meta": "1cb423c48cfec8ef8720264ff6ed277735a51bd87c0a489f25a3e0b90550a217",
+      "seqno": 6224208
+    },
+    "service": {
+      "entropy": "lHhp7+19LgOHRC1+2TqqxJWZ",
+      "name": "github",
+      "username": "tonyg326"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "4.4.0"
+  },
+  "ctime": 1568052796,
+  "expire_in": 504576000,
+  "prev": "6b2dd1a51c40049c9478c129ec4b6df88ea221405e9e203e521635a94303984e",
+  "seqno": 9,
+  "tag": "signature"
+}
+```
+
+with the key [ASAsTrV6GK6swPoWtelqs5yiGOOWN1kcOOtlb3w_OuNZtAo](https://keybase.io/tonyg326), yielding the signature:
+
+```
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgLE61ehiurMD6FrXparOcohjjljdZHDjrZW98PzrjWbQKp3BheWxvYWTESpcCCcQgay3RpRxABJyUeMEp7Ett+I6iIUBeniA+UhY1qUMDmE7EILHEaJE2H70AC6VJHY2FoNffOAF9ujNMq4+4DjaZdtiCAgHCo3NpZ8RA/maGhiu56CNQaAfTxCizRA/diI3EFa1qi3mxr5wB+yUYYUnzPPolYC/+g5xQ/QCvn3MNbMB6xPiGKXekmCwGCqhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIA0/UzU7hVUekFleorim2KX+zCBThloNlT4PDFpiAn+Eo3RhZ80CAqd2ZXJzaW9uAQ==
+
+```
+
+And finally, I am proving ownership of the github account by posting this as a gist.
+
+### My publicly-auditable identity:
+
+https://keybase.io/tonyg326
+
+### From the command line:
+
+Consider the [keybase command line program](https://keybase.io/download).
+
+```bash
+# look me up
+keybase id tonyg326
